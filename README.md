@@ -10,7 +10,7 @@ Hyderabad, India
 
 ## Summary
 
-Software Development Engineer with 4 years at TCS building features for a high-traffic, multi-brand dealership platform serving dealers across European markets. Experienced in backend development (Java, Spring Boot), SOAP/REST integrations, SQL/DB2, and enterprise security (SAML 2.0). Recently completed Airtribe’s Backend Engineering Launchpad (DSA, system design, GenAI), targeting SDE roles at product companies.
+Software Development Engineer with 4 years at TCS building features for a high-traffic, multi-brand dealership platform serving dealers across European markets. Experienced in backend development (Java, Spring Boot), SOAP/REST integrations, SQL/DB2, and enterprise security (SAML 2.0). Recently completed Airtribe’s Backend Engineering Launchpad (DSA, system design, GenAI).
 
 ## Experience
 

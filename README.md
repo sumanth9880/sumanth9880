@@ -3,7 +3,6 @@
 Software Development Engineer  
 Hyderabad, India
 
-- 📞 +91 77991 19880
 - 📧 sumanthgannamaneedi@gmail.com
 - 🔗 [GitHub](https://github.com/sumanth9880)
 - 🔗 LinkedIn

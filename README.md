@@ -5,7 +5,7 @@ Hyderabad, India
 
 - 📧 sumanthgannamaneedi@gmail.com
 - 🔗 [GitHub](https://github.com/sumanth9880)
-- 🔗 LinkedIn
+- 🔗 [LinkedIn](https://www.linkedin.com/in/teja-sai-sumanth-g-2b2772167/)
 
 ## Summary
 
